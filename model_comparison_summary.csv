@@ -1,0 +1,4 @@
+Model,Accuracy,ROC-AUC,F1 (Attrition),Recall (Attrition)
+Logistic Regression,75.17,0.8074,0.4966,0.766
+Random Forest,83.33,0.7862,0.1404,0.0851
+XGBoost,84.69,0.7824,0.3836,0.2979
